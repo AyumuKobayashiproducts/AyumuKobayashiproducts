@@ -1,49 +1,40 @@
 # Ayumu Kobayashi 👋
 
-AI SaaS Developer focused on building **production-ready, end-to-end AI products**  
-using modern web technologies and clean, scalable architecture.
+AI SaaS Developer building **production-ready web applications**  
+using modern technologies and practical, scalable architecture.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 AI SaaS Developer specializing in **Next.js, Supabase, and OpenAI**
-- 🧠 Experienced in building full-stack, AI-powered web applications
-- ⚡ Strong focus on **speed, practicality, and real-world usability**
-- 🌍 Based in Hyogo, Japan — open to **remote / global opportunities**
-
-I enjoy turning ideas into working products and shipping fast while maintaining clarity and structure in the codebase.
+- AI SaaS Developer focused on **real-world, usable products**
+- Strong interest in **end-to-end development** from idea to deployment
+- Prefer simple, maintainable systems over over-engineering
+- Open to **remote and international opportunities**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- Next.js (App Router)
-- React
-- TypeScript
-- Tailwind CSS
-
-**Backend / Infrastructure**
-- Supabase (Auth, Database, Storage)
-- OpenAI API
-- Vercel
-
-**Development**
-- Full-Stack Development
-- AI Application Development
-- End-to-End Product Design
+- **Frontend:** Next.js, React, TypeScript
+- **Backend / DB:** Supabase (Auth, Database)
+- **AI:** OpenAI API
+- **Deployment:** Vercel
+- **Tools:** GitHub
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### 🔹 DocuFlow
-AI-powered document workflow tool for organizing and managing documents efficiently.
+An AI-powered document workflow application designed to organize and manage documents efficiently.
 
-- Tech: Next.js / Supabase / OpenAI
-- Status: Active development
-- URL: https://docuflow.vercel.app/
+- Built with Next.js, Supabase, and OpenAI
+- Focused on clarity, speed, and practical UX
+- Currently under active development
+
+🌐 **Live Demo**  
+https://docuflow-azure.vercel.app/
 
 ---
 
@@ -51,13 +42,7 @@ AI-powered document workflow tool for organizing and managing documents efficien
 
 - **GitHub:** https://github.com/AyumuKobayashiproducts
 - **LinkedIn:** https://www.linkedin.com/in/ayumu-kobayashi-0154b9399/
-- **Website / Demo:** https://docuflow.vercel.app/
 
 ---
 
-## 📫 Contact
-
-Feel free to connect with me on LinkedIn or reach out via GitHub.  
-I'm always open to discussing projects, collaborations, or opportunities.
-
-Thanks for visiting my profile!
+Thanks for visiting my profile.
